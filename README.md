@@ -44,3 +44,5 @@ cd backend-project-44
 - `make install` - установка зависимостей (npm ci)
 
 - `make brain-games` - запуск игры
+
+- `make publish` - имитация публикации пакета в реестр npm 
