@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/death1333/backend-project-44.git"
   },
+  
   "license": "ISC",
   "author": "",
   "type": "module",
@@ -25,5 +26,8 @@
   "devDependencies": {
     "oxfmt": "^0.78.0",
     "oxlint": "^1.93.0"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
   }
 }
